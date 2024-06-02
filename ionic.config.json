@@ -1,0 +1,7 @@
+{
+  "name": "Bromley Bins",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
