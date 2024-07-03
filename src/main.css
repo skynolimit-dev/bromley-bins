@@ -1,0 +1,19 @@
+ion-title.title-large {
+    color: white;
+    font-size: 30px;
+  }
+  
+  ion-title {
+    --color: white;
+  }
+  
+  ion-toolbar {
+    --background: #006633;
+  }
+
+ion-datetime {
+    margin-top: 10px;
+    border-radius: 16px;
+    box-shadow: rgba(var(--ion-color-rose-rgb), 0.3) 0px 10px 15px -3px;
+    min-width: 100% !important;
+}
